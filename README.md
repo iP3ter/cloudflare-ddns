@@ -11,7 +11,6 @@ wget -O cloudflare-ddns.sh https://raw.githubusercontent.com/iP3ter/cloudflare-d
 chmod +x cloudflare-ddns.sh
 ```
 2. 运行脚本
-bash cloudflare-ddns.sh
 ```
 # 交互式菜单模式
 ./cloudflare-ddns.sh
