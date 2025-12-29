@@ -215,7 +215,7 @@ interactive_setup() {
     echo -e "${CYAN}━━━━━━━━━━━━ 配置向导 ━━━━━━━━━━━━${NC}\n"
     
     # API Token
-    echo -e "${YELLOW}[1/6] 请输入 Cloudflare API Token:${NC}"
+    echo -e "${YELLOW}[1/6] 请输入 Cloudflare API Token(输入时不可见，输入完确认即可):${NC}"
     echo -e "${CYAN}提示: 在 Cloudflare Dashboard -> My Profile -> API Tokens 创建${NC}"
     echo -e "${CYAN}需要权限: Zone.DNS (Edit)${NC}"
     read -r -s API_TOKEN
