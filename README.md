@@ -1,5 +1,5 @@
 # cloudflare-ddns
-一个基于cloudflare的ddns脚本
+一个基于cloudflare的ddns脚本，适合单台服务器管理，如果你有多个服务器需要进行管理，建议使用[这个项目](https://github.com/iP3ter/ddns-worker)
 
 ## 使用方法
 1. 保存并设置权限
